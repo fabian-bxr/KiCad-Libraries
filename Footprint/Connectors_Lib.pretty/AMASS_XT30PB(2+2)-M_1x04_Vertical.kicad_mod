@@ -133,4 +133,15 @@
 		(remove_unused_layers no)
 		(uuid "f9ded188-f7f2-42db-9382-7b53d6342efd")
 	)
+	(model "${KIPRJMOD}/KiCad-Libraries/Footprint/3D_Models/XT30(2+2)PW-M.step"
+		(offset
+			(xyz 2.5 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 -90)
+		)
+	)
 )
